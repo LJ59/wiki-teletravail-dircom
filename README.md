@@ -4,6 +4,8 @@ description: Tout ce dont vous avez besoin pour travailler à distance
 
 # Wiki Teletravail Dircom
 
+![](.gitbook/assets/istock-1144176152.jpg)
+
 ## Pas besoin d'être un super-héro
 
 Juste besoin de quelques outils et d'un petit peu de savoir faire
