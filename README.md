@@ -1,8 +1,8 @@
 ---
-description: Tout ce dont vous avez besoin pour travailler à distance
+description: Quelques astuces
 ---
 
-# Wiki Teletravail Dircom
+# Télétravailler en équipe
 
 ![](.gitbook/assets/istock-1144176152.jpg)
 

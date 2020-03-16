@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wiki Teletravail Dircom](README.md)
-* [FAQ](faq.md)
+* [Télétravailler en équipe](README.md)
+* [Télétravailler en équipe](untitled.md)
 * [Outils](outils.md)
 
