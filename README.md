@@ -1,8 +1,12 @@
-# Initial page
+---
+description: Tout ce dont vous avez besoin pour travailler à distance
+---
 
-## Getting Super Powers
+# Wiki Teletravail Dircom
 
-Becoming a super hero is a fairly straight forward process:
+## Pas besoin d'être un super-héro
+
+Juste besoin de quelques outils et d'un petit peu de savoir faire
 
 ```
 $ give me super-powers
